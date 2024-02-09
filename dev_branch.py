@@ -5,5 +5,6 @@ class Person():
 
     def display_info(self):
         print("Name is : ", self.firstname,"second name is", self.secondname)
+        print("Git Merge")
 
     
