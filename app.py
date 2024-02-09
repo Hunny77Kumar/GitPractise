@@ -5,3 +5,7 @@ def addition(a,b):
 def multiplication(a,b):
     return a*b
     print("End")
+
+def division(a,b):
+    return a/b
+    print("End")
